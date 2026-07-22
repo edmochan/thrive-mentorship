@@ -1,3 +1,5 @@
+<img width="1600" height="260" alt="THRIVE_Transparent_Header_Banner" src="https://github.com/user-attachments/assets/475247b3-cd8f-495a-94f7-683a2b8048ba" />
+
 # THRIVE: Toolkit of Holistic Resources for Intentional and Versatile Engagement
 ## A Holistic Industry Mentoring Toolkit for Retention and Persistence of Undergraduate CS Students
 
