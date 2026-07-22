@@ -2,7 +2,7 @@
 
 ## 1\. Purpose of the Mentorship Experience
 
-Welcome to the Carlow-Google Mentorship Program! This experience is designed to help you bridge your academic journey at Carlow with opportunities in industry, while supporting your growth as a whole person.
+Welcome to the Carlow Industry Mentorship Program! This experience is designed to help you bridge your academic journey at Carlow with opportunities in industry, while supporting your growth as a whole person.
 
 Mentorship has so many benefits for students, including:
 
@@ -17,6 +17,8 @@ Remember, mentorship provides a partnership with a professional in your field of
 
 Your mentor can help you with things like resumes, cover letters, applications, interviewing, and other career-related skills as well. This mentorship program is not a guarantee for a job or internship, but their advice can be invaluable in helping you find the position you are ultimately looking for.
 
+Below is an overview of the mentorship program, along with links to various resources provided. 
+
 ## 2\. What You Gain from this Experience
 
 By **actively** participating, you can expect to discuss, practice, and develop several skills. Below we provide a partial list of skills and competencies you may wish to work on with your mentor, though you are encouraged to work on whatever skills with which you feel you need the most help. The more you engage in this relationship, the more you can expect to get out of it.
@@ -26,42 +28,17 @@ By **actively** participating, you can expect to discuss, practice, and develop 
 - Better understanding of career paths in your field
 - Insight into day-to-day work in industry
 - Awareness of possible upcoming opportunities (internships, roles, skills)
+- [Access more career related materials →](students/careers)
 
 ### B. Professional Skills
 
-- **Professional** **Communication** (speaking, writing, presenting yourself)
+- **Professional Communication** (speaking, writing, presenting yourself)
 - **Problem Solving** (thinking through complex or ambiguous tasks)
 - **Collaboration** (working with diverse teams)
 - **Leadership & Initiative** (taking ownership of your growth)
 - **Adaptability** (learning from feedback and new situations)
 - **Professionalism** (respect, integrity, inclusion)
-
-### C. Understanding the Hidden Curriculum
-
-- Workplace expectations and professional norms
-- How to ask for help, give feedback, and navigate uncertainty
-- How to present yourself effectively in professional spaces
-
-### D. Confidence and Identity
-
-- Stronger sense of identity and belonging in your field
-- Ability to articulate your goals and strengths
-- Increased confidence and comfort engaging with professionals
-
-### A. Career Clarity
-
-- Better understanding of career paths in your field
-- Insight into day-to-day work in industry
-- Awareness of possible upcoming opportunities (internships, roles, skills)
-
-### B. Professional Skills
-
-- **Professional** **Communication** (speaking, writing, presenting yourself)
-- **Problem Solving** (thinking through complex or ambiguous tasks)
-- **Collaboration** (working with diverse teams)
-- **Leadership & Initiative** (taking ownership of your growth)
-- **Adaptability** (learning from feedback and new situations)
-- **Professionalism** (respect, integrity, inclusion)
+- [Access professional conduct and communication materials →](students/communication)
 
 ### C. Understanding the Hidden Curriculum
 
@@ -189,7 +166,7 @@ Your mentor can:
 
 **"I'm not connecting well with my mentor."**
 
-- Talk to Dr. Mochan!
+- Talk to the program coordinator.
 - We can make adjustments to the mentor-mentee pairs if needed.
 
 **"My mentor isn't answering the questions I have."**
@@ -200,7 +177,7 @@ Your mentor can:
 **"I'm having trouble finding time to meet with my mentor."**
 
 - Your mentor is doing you a favor volunteering to work with you. Be flexible with your schedule to try to accommodate times that work for your mentor as much as possible.
-- If you are still having trouble, reach out to Dr. Mochan for assistance.
+- If you are still having trouble, reach out to teh program coordinator for assistance.
 
 ## 8\. Carlow Values in Mentorship
 
