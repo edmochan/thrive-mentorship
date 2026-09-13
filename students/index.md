@@ -8,11 +8,11 @@
 - [Sample meeting agenda](sample_agenda.md)
 - [Weekly expectations - UNDER CONSTRUCTION](weekly_expectations.md)
 - [Post-meeting reflection](student_reflection.md)
-- [Progress milestone map - UNDER CONSTRUCTION](progress_milestone_map.md)
+- [Progress milestone map](progress_milestone_map.md)
 
 ## Professional Communication Guides
 - [Professional communication templates](professional_communication_guide.md)
-- [Personal narrative guide - UNDER CONSTRUCTION](personal_narrative.md)
+- [Personal narrative guide](personal_narrative.md)
 - [Giving and receiving professional feedback](feedback_guide.md)
 - [Professional networking guide](networking_guide.md)
 
