@@ -1,6 +1,9 @@
 <img width="1600" height="260" alt="THRIVE_Enhanced_Banner" src="https://github.com/user-attachments/assets/e0565d00-1933-417c-9cda-df240327da0e" />
 
-# Internship and Job Search Timeline
+# Internship and Job Search Timeline and Tracker
+
+Follow the steps below to prepare for and apply to jobs and internships in your field of interest. Use our [Application and Networking Tracker](https://github.com/user-attachments/files/32165379/THRIVE.Job.and.Networking.Tracker.xlsx)
+ to keep track of your progress and maintain a running log of your professional contacts.
 
 ## Step 1. Exploration and Preparation (9-12 months before)
 
@@ -68,3 +71,4 @@
 - Use your mentor and faculty advisor for feedback
 - Update your GitHub, LinkedIn, and other materials regularly (semester breaks are a great time!)
 - Stay positive and persistent
+- Keep a list of every job you apply to help yourself stay organized. Make your own list or use the [THRIVE Job tracker](https://github.com/user-attachments/files/32165353/THRIVE.Job.and.Networking.Tracker.xlsx) to keep the details straight.
